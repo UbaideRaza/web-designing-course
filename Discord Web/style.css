@@ -1,0 +1,292 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#parent{
+    height: 460px;
+    margin-top:-1.2%;
+    margin-left: -0.6%;
+    position: relative;
+    width: 1348px;
+    background-image: url('./image.1.svg');
+    background-size: 1900px; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+ul{  
+    font-style: none;
+    padding-top: 1.8%;
+}
+li{
+    display: inline;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-left: 2%;
+    margin-right: 0%;
+    font-size: 12px;
+    font-weight: 600;
+}
+a:hover{
+    color: white;
+    text-decoration-line: underline;
+}
+#c{
+    color: white;
+    text-decoration: none;
+    margin-left: 21%;
+    margin-right: 0%;
+    font-size: 12px;
+}
+#c:hover{
+    color: white;
+    text-decoration-line: underline;
+}
+#b{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    margin-left: 14%;
+    margin-top: 0.3%;
+    position: absolute;
+}
+#b:hover{
+    color: white;
+    text-decoration-line: underline;
+}
+#d{
+    border-radius: 18px;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 10px 14px;
+    border: none;
+    float: right;
+    position: absolute;
+    margin-top: -6px;
+    margin-left: 170px;
+    font-family:'Trebuchet MS', Arial, sans-serif;
+    background-color: white;
+}
+
+#logo{
+    width: 40px;
+    float: left;
+    margin-top: 1.2%;
+    margin-left: 17%;
+}
+#head1{
+    position: absolute;
+    margin-top: 22px;
+}
+#img1{
+    width: 90%;
+    position: absolute;
+    margin: 3.2% 0%;
+} 
+#img2{
+    width: 500px;
+    height: 252px;
+    position: absolute;
+    margin-top: 148px;
+    margin-left: -90px;
+}
+#img3{
+    position: absolute;
+    margin-top: 139px;
+    width:350px;
+    height: 260px; 
+    margin-left: 322px;
+    float: right;
+    display: inline;
+}
+.button{
+    width: 240px;
+    height: 46px;
+    font-size: 100%;
+    border-radius: 450px;
+    display: inline-block;
+    text-align: center;
+    border:1px;
+    margin-left: 2%;
+    margin-top: 1%;
+    cursor: pointer;
+}
+.button2{
+    width: 260px;
+    height: 48px;
+    border-radius: 450px;
+    font-size: 100%;
+    display: inline-block;
+    background-color: rgb(39, 38, 38);
+    text-align: center;
+    color: white;
+    margin-left: 2%; 
+    border:1px ;
+    cursor: pointer;
+}
+#head2{
+    margin-top: 7%;
+    text-align: center;
+    color: white;
+}
+#para{
+    color: white;
+    margin-top: -2%;
+    text-align: center;
+    font-size: 15px;
+}
+#img4{
+    margin: 7% 16%;
+    width:560px;
+}
+#head3{
+    position: absolute;
+    display: inline;
+    margin-top: 10%;
+    margin-left:-8%;
+    font-size: 40px;
+}
+#para1{
+    position: absolute;
+    display: inline;
+    margin-top: 23%;
+    margin-left: -8%;
+}
+#parent1{
+    background-color: whitesmoke;
+    margin: -0.5%;
+    height: 515px;
+}
+#img5{
+    position: absolute;
+    width: 510px;
+    margin-top: 7%;
+    margin-left: 46%;
+}
+#head4{
+    position: absolute;
+    margin-left: 14.6%;
+    font-size: 40px;
+    margin-top: 11%;
+}
+#para2{
+    display: inline;
+    position: absolute;
+    margin-left: 14.6%;
+    margin-top: 21%;
+}
+#parent2{
+    position: relative;
+}
+#img6{
+    width: 510px;
+    margin-top: 7%;
+    margin-left: 224px;
+}
+#head5{
+    display: inline;
+    float: right;
+    margin-right: 18%;
+    margin-top: 12%;
+    font-size: 40px;
+}
+#para3{
+    display: inline;
+    position: absolute;
+    margin-top: 21%;
+    margin-left: 7.4%;
+}
+#parent3{
+    background-color: whitesmoke;
+    margin: -0.5%;
+    height: 1080px;
+    margin-top: 120px;
+    position: relative;
+}
+#head6{
+    position: absolute;
+    margin-top: 7.5%;
+    margin-left: 28%;
+    font-size: 230%;
+}
+#para4{
+    position: absolute;
+    text-align: center;
+    margin-top: 12%;
+    margin-left: 22%;
+}
+#img7{
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 210px;
+    width: 70%;
+}
+#img8{
+    width:30%;
+    float: right;
+    margin-top: 860px;
+    margin-right: 35%;
+}
+.button3{
+    position: absolute;
+    width: 250px;
+    height: 46px;
+    font-size: 100%;
+    border-radius: 450px;
+    text-align: center;
+    margin-top: 940px;
+    margin-left: 40%;
+    border:1px ;
+    background-color: #5865F2;
+    color: white;
+    cursor: pointer;
+}
+#head7{
+    position: absolute;
+    margin-top: 880px;
+    margin-left: 38%;
+}
+.sixthbox{
+    background-color: rgb(39, 38, 38);
+    height: 580px;
+    margin: -0.5%;
+}
+#select{
+    width:150px;
+    margin-top: 5%;
+    text-decoration: none;
+    background:  rgb(39, 38, 38);
+    color: white;
+    
+}
+.option{
+    background-color:white;
+    color: rgb(39, 38, 38);
+}
+.td{
+padding-top: 30px;
+}
+.hr{
+width:70%;
+ align-items:center;
+ 
+}
+.button4{
+width: 6%; 
+height: 36px;
+border-radius: 450px;
+color: white;
+background-color:rgb(52, 69, 165) ;
+margin-right: 16%;
+margin-top: 1%;
+border: none;
+display: inline;
+float: right;
+cursor: pointer;
+}
+.End{
+color: rgb(52, 52, 236);
+}
+
+
